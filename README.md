@@ -1,5 +1,6 @@
 # AI WordPress
 *Last Update: Monday - December 08, 2025*
+
 An awesome list of AI in/with/and WordPress, themes, plugins and interesting things. 
 
 - [Awesome WordPress](#awesome-wordpress)
