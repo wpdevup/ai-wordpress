@@ -3,11 +3,14 @@ An awesome list of AI in/with/and WordPress, themes, plugins and interesting thi
 
 - [Awesome WordPress](#awesome-wordpress)
 	- [Plugins](#plugins)
+	- [AI Powered Plugins](#ai-powered-plugins)
+	- [Services](#services)
 	- [Other](#other)
 	- [Resources](#resources)
 
 ## Plugins
 
+* [AIP: Complete AI Toolkit for WordPress](https://wordpress.org/plugins/gpt3-ai-content-generator/) - AI Power (AIP) is the complete AI plugin for WordPress — a full set of artificial intelligence tools to transform your site.
 * [ClassifAI](https://github.com/10up/classifai) - Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.
 * [Wordpress AI Companion](https://github.com/shierd/wordpress-ai-companion) - A WordPress Plugin For Chatting With AI
 * [Comments Reply with GPT](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin) - WPWMs - Comments Reply with ChatGPT(OpenAi) is a plugin that uses OpenAI's ChatGPT to automatically reply to comments on your WordPress website.
@@ -46,8 +49,17 @@ An awesome list of AI in/with/and WordPress, themes, plugins and interesting thi
 * [AI Engine](https://wordpress.org/plugins/ai-engine/) - AI Engine: Chatbots, Generators, Assistants, GPT 4 and more!
 
 
+## AI Powered Plugins
+
+
+## Services
+
+* [Telex](https://telex.automattic.ai/) - AI-Assisted Authoring Environment for WordPress Blocks, transform ideas into fully functional WordPress blocks with Telex.
+
+
 ## Other
 
+* [WordPress mcp-adapter](https://github.com/WordPress/mcp-adapter) - An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. 
 * [ChatGPT Generated Articles to WordPress](https://github.com/TrippingLettuce/ChatGPT-Generated-Articles-to-WordPress) - AI generated WordPress articles, with images
 * [AI-Powered WordPress Article Generator](https://github.com/Klouqz/AI-Powered-WordPress-Article-Generator) - Unleash the power of AI in content creation with this AI-powered WordPress Article Generator.
 * [OpenAI News Generator](https://github.com/Fredyy90/OpenAI-News-Generator) - simple python script to generate news article from headlines of a source rss feed and publish them to wordpress
