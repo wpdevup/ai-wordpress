@@ -1,4 +1,5 @@
 # AI WordPress
+*Last Update: Monday - December 08, 2025*
 An awesome list of AI in/with/and WordPress, themes, plugins and interesting things. 
 
 - [Awesome WordPress](#awesome-wordpress)
@@ -59,7 +60,10 @@ An awesome list of AI in/with/and WordPress, themes, plugins and interesting thi
 
 ## Other
 
-* [WordPress mcp-adapter](https://github.com/WordPress/mcp-adapter) - An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. 
+* [WordPress AI Experiments](https://github.com/WordPress/ai) - AI experiments for WordPress. Modular framework for testing AI capabilities.
+* [WordPress mcp-adapter](https://github.com/WordPress/mcp-adapter) - An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.
+* [WordPress AI Client](https://github.com/wordpress/wp-ai-client) - An AI client and API for WordPress to communicate with any generative AI models of various capabilities using a uniform API. 
+* [Abilities API](https://github.com/WordPress/abilities-api) - Provide a common way for WordPress core, plugins, and themes to describe what they can do ("abilities") in a machine‑readable, human‑friendly form.
 * [ChatGPT Generated Articles to WordPress](https://github.com/TrippingLettuce/ChatGPT-Generated-Articles-to-WordPress) - AI generated WordPress articles, with images
 * [AI-Powered WordPress Article Generator](https://github.com/Klouqz/AI-Powered-WordPress-Article-Generator) - Unleash the power of AI in content creation with this AI-powered WordPress Article Generator.
 * [OpenAI News Generator](https://github.com/Fredyy90/OpenAI-News-Generator) - simple python script to generate news article from headlines of a source rss feed and publish them to wordpress
