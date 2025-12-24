@@ -49,6 +49,7 @@ An awesome list of AI in/with/and WordPress, themes, plugins and interesting thi
 * [Kenzy AI™ Comment Sentiment](https://github.com/Merion-Dynamics/wp-kenzyai) - A Free Comment Sentiment Analysis for WordPress Powered by A.I. 
 * [WP AI CoPilot](https://wordpress.org/plugins/ai-co-pilot-for-wp/) - WP AI CoPilot – AI content writer plugin, ChatGPT WordPress, GPT-3/4 , Ai assistance
 * [AI Engine](https://wordpress.org/plugins/ai-engine/) - AI Engine: Chatbots, Generators, Assistants, GPT 4 and more!
+* [AI Builder](https://wordpress.org/plugins/ai-builder/) - AI Builder is a native AI Page Builder that generates 100% custom Gutenberg pages, blocks, content, and CSS tailored to your specific prompts.
 
 
 ## AI Powered Plugins
