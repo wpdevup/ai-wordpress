@@ -13,6 +13,7 @@ An awesome list of AI in/with/and WordPress, themes, plugins and interesting thi
 ## Plugins
 
 * [AI](https://wordpress.org/plugins/ai/) - The AI plugin brings AI-powered features directly into your WordPress admin and editing experience.
+- [AI Alt Text Generator](https://github.com/DeusAcc/ai-alt-text-generator) - WordPress plugin that scans the Media Library and generates missing image ALT text automatically via a vision AI model (BYOK: your own OpenAI-compatible key, free tiers included). GPLv2, no subscription.
 * [AI Engine – The Chatbot, AI Framework & MCP for WordPress](https://wordpress.org/plugins/ai-engine/) - AI Engine connects WordPress with AI models. One install, stable connectors for every major AI provider: OpenAI, Anthropic, Google, Mistral, and more. Build intelligent chatbots, generate content, create AI forms, and automate tasks. All from your WordPress dashboard.
 * [AIP: Complete AI Toolkit for WordPress](https://wordpress.org/plugins/gpt3-ai-content-generator/) - AI Power (AIP) is the complete AI plugin for WordPress — a full set of artificial intelligence tools to transform your site.
 * [ClassifAI](https://github.com/10up/classifai) - Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.
