@@ -48,6 +48,7 @@ An awesome list of AI in/with/and WordPress, themes, plugins and interesting thi
 * [AIdministrator](https://github.com/codeispoetry/aidministrator) - WordPress administration by ChatGPT in natural language 
 * [Artist Image Generator](https://github.com/Immolare/artist-image-generator) - Artist Image Generator is a Wordpress plugin to create AI generated royality-free images from scratch.
 * [Auto Alt Text](https://github.com/acodesmith/auto-alt-text) - WordPress plugin to generate alt tags with AI image recognition 
+* [VergeLabs Media Library](https://github.com/vergelabsnathan/vergelabs-media-library) - Folders and categories for the WordPress media library, with AI alt text, titles and captions. GPLv2 or later, a maintained fork of Enhanced Media Library.
 * [ZMP AI Assistant](https://github.com/zuestmedia/zmp-ai-assistant) - This WordPress Plugin adds the AI Assistant to the edit-post-screen, to directly create/edit content and images with gpt-3, while working in WordPress editor. 
 * [Wordpres AI post generator](https://github.com/michalicka/ai-postgen) - OpenAI GPT post content generator
 * [OpenAI Moderation WordPress](https://github.com/RAHB-REALTORS-Association/OpenAI-Moderation-WP) - This is a WordPress plugin that moderates content using the OpenAI Moderation API, allowing you to avoid abusive content on your website. 
