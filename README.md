@@ -59,6 +59,8 @@ An awesome list of AI in/with/and WordPress, themes, plugins and interesting thi
 * [Pagora AI](https://wordpress.org/plugins/pagora-ai/) - AI-powered WordPress page builder that generates complete HTML/CSS/JS pages from a chat prompt, with a live preview, built-in code editor, and version history.
 
 
+* [WebDecoy Bot Detection](https://wordpress.org/plugins/webdecoy/) - Free WordPress plugin for AI crawler detection and optional blocking, with local detection logs and a default monitor mode. Runs without an account or API key; cloud connection is optional.
+
 ## AI Powered Plugins
 
 
