@@ -60,6 +60,7 @@ An awesome list of AI in/with/and WordPress, themes, plugins and interesting thi
 
 
 * [WebDecoy Bot Detection](https://wordpress.org/plugins/webdecoy/) - Free WordPress plugin for AI crawler detection and optional blocking, with local detection logs and a default monitor mode. Runs without an account or API key; cloud connection is optional.
+* [WP MCP](https://github.com/wpmcp/wpmcp) - MCP server plugin built on the WordPress Abilities API: 407 abilities (274 in the free plugin) for content, Gutenberg, Elementor and other page builders, WooCommerce, SEO and forms. Every supported write is snapshotted first and can be rolled back from the AI client or wp-admin. GPLv2 or later, with a paid Pro tier.
 
 ## AI Powered Plugins
 
