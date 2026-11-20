@@ -84,6 +84,7 @@ An awesome list of AI in/with/and WordPress, themes, plugins and interesting thi
 * [AI Powered WordPress Blog Generator](https://github.com/haseemajaz/AI-Powered-WordPress-Blog-Generator) - This Python application provides a user-friendly graphical interface to generate and publish blog posts to your WordPress website with the help of the OpenAI API.
 * [Chrome extension](https://github.com/kztmk/chrome-extension-ai-writer) - Chrome extension that post ChatGPT prompts and completions to WordPress
 * [WordPress robots.txt Generator with AI Crawler Toggles](https://odiethemes.com/tools/wordpress-robots-txt-generator/) - Free browser tool that writes a WordPress robots.txt with per-crawler toggles for AI crawlers such as GPTBot.
+* [Flavian](https://github.com/PMDevSolutions/Flavian) - Claude Code toolkit for WordPress development. It converts a Figma design, Canva HTML export or InDesign file into an FSE block theme (theme.json, templates, block patterns) on a local Docker WordPress site, and adds agents and skills for PHPCS checks, security hardening and tests. MIT licensed.
 
 
 ## Resources
